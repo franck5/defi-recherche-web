@@ -228,3 +228,9 @@ Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
 
 JavaScript, Java, PHP, voici donc les trois langages les plus plébiscités. Suivent Python, C#, C++, Ruby, CSS, C et Objective-C, pour le top 10. Le top 3 ne bouge plus, le top 10 reste très figé, signe que ces langages sont arrivés à maturité, et ont déjà bien été éprouvés dans le milieu professionnel.
 <http://fr.ubergizmo.com/2016/08/01/javascript-langage-le-plus-populaire.html>
+
+Qui est Phil Zimmermann ?
+-
+
+Philip Zimmermann, né à Camden (New Jersey) le 12 février 1954 (63 ans), est un scientifique américain, créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde.
+<https://fr.wikipedia.org/wiki/Philip_Zimmermann>
