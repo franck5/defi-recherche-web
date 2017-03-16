@@ -119,3 +119,9 @@ Qui est Marissa Mayer ?
 
 Marissa Ann Mayer, née le 30 mai 1975 a Wausau dans le Wisconsin, est une informaticienne et cher d'entreprise am2ricaine.Elle occupe de 2012 à 2017 le poste de PDGde Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation.
 <https://fr.wikipedia.org/wiki/Marissa_Mayer>
+
+Qu’est-ce qu’une attaque “brute force” ?
+-
+
+La méthode de recherche par force brute ou recherche exhaustive est une méthode de résolution de problème dans les domaines de la cryptologie, de l'informatique et de la théorie des jeux.Cette méthode tient justement son nom du fait qu'elle soit basée sur l'utilisationet l'essa	i de toutes les solution possibles, d'ou également le terme de recherche exhaustive.
+<https://www.1and1.fr/digitalguide/serveur/securite/attaque-par-force-brute-definition-et-mesures-de-protection/>
