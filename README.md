@@ -190,3 +190,11 @@ Qu'est-ce que le load balancing ?
 
 Le load balancing est une solution informatique adaptée aux petits budgets. La technique consiste à répartir les charges sur différents appareils d’un même réseau. Elle permet notamment aux serveurs de sites Internet à forte audience de ne pas se retrouver surchargés. Dans le load balancing, les multiples requêtes sont distribuées sur plusieurs serveurs. Il devient alors inutile d’investir dans un unique appareil extrêmement puissant. Il suffit de multiplier les dispositifs peu coûteux pour obtenir la même résistance à la charge.
 <https://www.promosoft.fr/quest-ce-que-le-load-balancing/>
+
+Qu’est-ce que l’Open Source ?
+-
+
+L'Open Source, la plupart du temps traduit en français par le terme "logiciel libre", est qualifié d'application logicielle dont les sources (les codes du programme) sont rendues publiques.
+
+C'est-à-dire que toute personne ayant les capacités techniques de travailler sur ces sources va utiliser la méthode de développement basée sur les valeurs de l'échange, de la liberté et du partage.
+<http://www.formation-open-source.fr/open-source-d%C3%A9finition>
