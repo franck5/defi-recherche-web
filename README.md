@@ -93,3 +93,9 @@ Qu’est-ce que le projet GNU ?
 
 Le Projet GNU a été démarré en septembre 1983 par Richard M. Stallman afin de créer un système d'exploitation complet utilisant du logiciel libre. Le développement du logiciel a débuté en janvier de l'année suivante. De nos jours, il existe plusieurs systèmes d'exploitation libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel.
 <https://fsfe.org/freesoftware/basics/gnuproject.fr.html>
+
+Quelles sont les différences entre le Http et le Https ?
+-
+
+HTTP est l’acronyme de “Hyper Text Transfer Protocol”. C’est un protocole utilisé sur Internet pour transmettre les informations entre un serveur et un client. Jusque là c’est bien et on n’a pas besoin de rentrer dans les détails techniques. Le plus important pour nous, c’est le petit “S” à la fin qui veut bien entendu dire “Secure” ou sécurisé en bon français.
+<http://www.kingofgeek.com/2014/06/difference-http-https/>
