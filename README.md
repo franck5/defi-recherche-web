@@ -78,3 +78,12 @@ Ce site Permet de crée des communautés et d'organiser des conférences, ceux q
 
 Simplon Toulouse, Laravel Toulouse, Communauté Javascrip and Co Toulouse, Angular Js Toulouse, Toulouse Java user group, Startup Evening Toulouse, swift Toulouse etc..
 <https://www.meetup.com/fr-FR/cities/fr/toulouse/>
+
+Qui est Aaron Swartz ?
+-
+
+Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York1) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.
+Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme5,6.
+Il se suicide le 11 janvier 2013 à l'âge de 26 ans1 dans son appartement. Son procès fédéral en lien avec des accusations de fraude électronique devait débuter le mois suivant.
+<https://fr.wikipedia.org/wiki/Aaron_Swartz>
