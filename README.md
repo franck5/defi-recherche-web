@@ -247,3 +247,10 @@ Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 13 heures
 Quantité de contenu a téléchargé chaque minute
 <http://zelaurent.com/video/10-chiffres-les-plus-impressionnants-sur-youtube>
+
+Que sont les White Hat et les Black Hat ?
+-
+
+Les techniques white hat servent avant tout à donner des résultats pertinents à l’utilisateur des moteurs de recherche. 
+Les techniques dites black hat vont elles aussi permettre d’améliorer le référencement d’un site Web. Elles vont cependant le faire de manière douteuse en manipulant l’algorithme de Google. Les techniques black hat amènent des dommages collatéraux tel la diminution de la qualité des résultats des moteurs de recherche. Ces techniques sont évidemment réprimées par Google.
+<http://www.indexwebmarketing.com/black-hat-white-hat>
