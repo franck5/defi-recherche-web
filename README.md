@@ -138,3 +138,8 @@ Combien coûte un nom de domaine ?
 
 Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu’en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes
 <http://www.nddconline.org/31-combien-coute-un-nom-de-domaine>
+
+Quels sont les différents services d'emailing disponibles ?
+-
+Les différents services d'emailing disponibles sont : Les plateformes email marketing en selfservice,Les plateformes email marketing proposant un accompagnement,Les plateformes cross-canal et/ou de gestion de l’automatisation,La grande majorité des plateformes emailing sont disponibles en mode Saas (Software as a service), c’est à dire qu’elles sont hébergées chez le fournisseur de service qui les mets à disposition.
+<http://www.badsender.com/2013/05/27/les-differents-types-de-plateformes-emailing/>
