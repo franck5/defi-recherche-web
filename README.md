@@ -183,4 +183,4 @@ Le Manifeste agile est un texte rédigé par 17 experts du développement d'appl
 Trouvez un screenshot de la première version de Facebook
 -
 
-!http://blog.gaborit-d.com/wp-content/uploads/2014/09/Facebook.jpg
+!(http://blog.gaborit-d.com/wp-content/uploads/2014/09/Facebook.jpg)
