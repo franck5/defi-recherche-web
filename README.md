@@ -143,3 +143,9 @@ Quels sont les différents services d'emailing disponibles ?
 -
 Les différents services d'emailing disponibles sont : Les plateformes email marketing en selfservice,Les plateformes email marketing proposant un accompagnement,Les plateformes cross-canal et/ou de gestion de l’automatisation,La grande majorité des plateformes emailing sont disponibles en mode Saas (Software as a service), c’est à dire qu’elles sont hébergées chez le fournisseur de service qui les mets à disposition.
 <http://www.badsender.com/2013/05/27/les-differents-types-de-plateformes-emailing/>
+
+Qu’est-ce que le développement en cycle V ?
+-
+
+Face aux problèmes de réactivité que pose l’approche en cascade, l’industrie informatique a adopté le cycle en v dans les années 80. Ce modèle ne se découpe plus en 7 mais en 9 phases qui se répondent 2 à 2 : à chaque étape de conception correspond une phase de test ou de validation.
+<http://www.responsive-mind.fr/cycles-developpement-informatique/>
