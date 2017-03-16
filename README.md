@@ -113,3 +113,9 @@ Comment fonctionnent les bang de Duck Duck Go ?
 DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
 La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs2,3 (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
 <https://fr.wikipedia.org/wiki/DuckDuckGo>
+
+Qui est Marissa Mayer ?
+-
+
+Marissa Ann Mayer, née le 30 mai 1975 a Wausau dans le Wisconsin, est une informaticienne et cher d'entreprise am2ricaine.Elle occupe de 2012 à 2017 le poste de PDGde Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation.
+<https://fr.wikipedia.org/wiki/Marissa_Mayer>
