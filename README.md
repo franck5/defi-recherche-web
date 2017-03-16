@@ -280,3 +280,9 @@ En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
 La méthode Pomodoro fait son apparition dans les années 80 grâce à Francesco Cirillo. Il s’est lancé un pari lorsqu’il était encore étudiant, à savoir s’il était capable d’étudier pendant 10 minutes sans interruption. Et pour tenir ce pari, il eu l’idée d’utiliser une minuterie en forme de tomate (pomodoro en italien, d’où la « Méthode Pomodoro »). Au fil du temps, Francesco Cirillo examina et améliora cette technique afin qu’elle soit adaptable au plus grand nombre d’activité. Celle-ci consiste donc à se consacrer à une tâche à la fois. Valoxy Expert comptable Lille vous présente les bases de la méthode Pomodoro.
 <https://blog.valoxy.org/methode-pomodoro/>
+
+Qu’est-ce qu’Amazon Web Services - AWS ?
+-
+
+Amazon Web Services (AWS) est une plateforme de services de cloud sécurisée, qui met notamment à disposition de la puissance de calcul et des fonctionnalités de stockage de base de données et de livraison de contenus pour aider les entreprises à grandir et à monter en échelle. Découvrez comment des millions de clients exploitent actuellement les produits et solutions du cloud AWS pour concevoir des applications sophistiquées, avec une flexibilité, une évolutivité et une fiabilité supérieures.
+<https://aws.amazon.com/fr/what-is-aws/>
