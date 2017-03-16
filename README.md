@@ -262,3 +262,9 @@ Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure ind
 
 Lors d'une attaque DDoS, une multitude de requêtes sont envoyées simultanément, depuis de multiples points du Net. L'intensité de ce "tir croisé" rend le service instable, ou pire, indisponible.
 <https://www.ovh.com/fr/anti-ddos/principe-anti-ddos.xml>
+
+Qui est Tim Berners-Lee ?
+-
+
+Timothy John Berners-Lee, né le 8 juin 1955 à Londres, est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
+<https://fr.wikipedia.org/wiki/Tim_Berners-Lee>
