@@ -184,3 +184,9 @@ Trouvez un screenshot de la première version de Facebook
 -
 
 <img src = "http://blog.gaborit-d.com/wp-content/uploads/2014/09/Facebook.jpg" title = "1er Facebook logo" alt = "Facebook logo">
+
+Qu'est-ce que le load balancing ?
+-
+
+Le load balancing est une solution informatique adaptée aux petits budgets. La technique consiste à répartir les charges sur différents appareils d’un même réseau. Elle permet notamment aux serveurs de sites Internet à forte audience de ne pas se retrouver surchargés. Dans le load balancing, les multiples requêtes sont distribuées sur plusieurs serveurs. Il devient alors inutile d’investir dans un unique appareil extrêmement puissant. Il suffit de multiplier les dispositifs peu coûteux pour obtenir la même résistance à la charge.
+<https://www.promosoft.fr/quest-ce-que-le-load-balancing/>
