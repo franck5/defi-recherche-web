@@ -268,3 +268,9 @@ Qui est Tim Berners-Lee ?
 
 Timothy John Berners-Lee, né le 8 juin 1955 à Londres, est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
 <https://fr.wikipedia.org/wiki/Tim_Berners-Lee>
+
+Comment sont reliés les différents réseaux d'internet ?
+-
+
+Un réseau informatique est un ensemble d'équipements reliés entre eux pour échanger des informations. Par analogie avec un filet (un réseau est un « petit rets », c'est-à-dire un petit filet1), on appelle nœud l'extrémité d'une connexion, qui peut être une intersection de plusieurs connexions ou équipements (un ordinateur, un routeur, un concentrateur, un commutateur)
+<https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique>
