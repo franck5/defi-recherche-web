@@ -45,3 +45,19 @@ Qui est Grace Hopper ?
 
 Grace Hopper était une femme remarquable, qui contribua énormément à l’évolution des langages de programmation et à la convivialité des premiers ordinateurs. C’est notamment grâce à elle qu’un ordinateur comprend aujourd’hui l’anglais et que des non-mathématiciens et des entreprises ont commencé à s’adonner également à la programmation et à l’utilisation des ordinateurs
 <http://www.ada-online.org/frada/spip93a3.html?article100>
+
+Qu'est-ce que Qwant ?
+-
+
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+<https://fr.wikipedia.org/wiki/Qwant>
+
+Qui est Steve Wozniak ?
+-
+
+Steve Wozniak est un des pionniers de l'industrie micro-informatique. Il a développé une vraie passion pour l'électronique, les mathématiques et les sciences physiques en général.
+A seulement onze ans, il parvient à construire une radio amateur. A treize ans, le petit génie, est déjà élu président du club d’électronique de son école.
+En 1970,  Steve Wozniak réussit à créer son premier ordinateur qu'il appellera Cream Soda Computer.
+Dans la même année, son chemin croise celui de son camarade de classe Steve Jobs, et ensemble les deux hommes fondent Apple, qui devient par la suite  une des plus importantes firmes de production de matériel électroniques grand public, des ordinateurs personnels et des logiciels informatiques.
+Steve Wozniak a réussi à concevoir les premiers ordinateurs Apple (dont Apple I, Apple II, Apple III, Lisa divers périphériques...).
+<http://www.lsa-conso.fr/carnet-des-decideurs/wozniak-steve,131706>
