@@ -99,3 +99,10 @@ Quelles sont les différences entre le Http et le Https ?
 
 HTTP est l’acronyme de “Hyper Text Transfer Protocol”. C’est un protocole utilisé sur Internet pour transmettre les informations entre un serveur et un client. Jusque là c’est bien et on n’a pas besoin de rentrer dans les détails techniques. Le plus important pour nous, c’est le petit “S” à la fin qui veut bien entendu dire “Secure” ou sécurisé en bon français.
 <http://www.kingofgeek.com/2014/06/difference-http-https/>
+
+Qui est Richard Stallman ?
+-
+
+Né en 1953, Richard Stallman est un programmeur américain hors pair considéré come le père du logiciel libre.
+Son héritage est unanimement reconnu et son influence toujours plus grande sur nos sociétés actuelles de l’information et de la communication.
+<https://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/>
