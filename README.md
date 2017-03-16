@@ -39,3 +39,9 @@ Que sont les Creatives Commons ?
 
 Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
 <https://fr.wikipedia.org/wiki/Creative_Commons>
+
+Qui est Grace Hopper ?
+-
+
+Grace Hopper était une femme remarquable, qui contribua énormément à l’évolution des langages de programmation et à la convivialité des premiers ordinateurs. C’est notamment grâce à elle qu’un ordinateur comprend aujourd’hui l’anglais et que des non-mathématiciens et des entreprises ont commencé à s’adonner également à la programmation et à l’utilisation des ordinateurs
+<http://www.ada-online.org/frada/spip93a3.html?article100>
