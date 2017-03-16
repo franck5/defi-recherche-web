@@ -254,3 +254,11 @@ Que sont les White Hat et les Black Hat ?
 Les techniques white hat servent avant tout à donner des résultats pertinents à l’utilisateur des moteurs de recherche. 
 Les techniques dites black hat vont elles aussi permettre d’améliorer le référencement d’un site Web. Elles vont cependant le faire de manière douteuse en manipulant l’algorithme de Google. Les techniques black hat amènent des dommages collatéraux tel la diminution de la qualité des résultats des moteurs de recherche. Ces techniques sont évidemment réprimées par Google.
 <http://www.indexwebmarketing.com/black-hat-white-hat>
+
+Qu’est-ce qu’une attaque DDoS ?
+-
+
+Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure indisponibles en surchargeant la bande passante du serveur, ou en accaparant ses ressources jusqu'à épuisement.
+
+Lors d'une attaque DDoS, une multitude de requêtes sont envoyées simultanément, depuis de multiples points du Net. L'intensité de ce "tir croisé" rend le service instable, ou pire, indisponible.
+<https://www.ovh.com/fr/anti-ddos/principe-anti-ddos.xml>
