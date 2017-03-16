@@ -106,3 +106,10 @@ Qui est Richard Stallman ?
 Né en 1953, Richard Stallman est un programmeur américain hors pair considéré come le père du logiciel libre.
 Son héritage est unanimement reconnu et son influence toujours plus grande sur nos sociétés actuelles de l’information et de la communication.
 <https://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/>
+
+Comment fonctionnent les bang de Duck Duck Go ?
+-
+
+DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs2,3 (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
+<https://fr.wikipedia.org/wiki/DuckDuckGo>
