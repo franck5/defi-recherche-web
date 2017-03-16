@@ -125,3 +125,11 @@ Qu’est-ce qu’une attaque “brute force” ?
 
 La méthode de recherche par force brute ou recherche exhaustive est une méthode de résolution de problème dans les domaines de la cryptologie, de l'informatique et de la théorie des jeux.Cette méthode tient justement son nom du fait qu'elle soit basée sur l'utilisationet l'essa	i de toutes les solution possibles, d'ou également le terme de recherche exhaustive.
 <https://www.1and1.fr/digitalguide/serveur/securite/attaque-par-force-brute-definition-et-mesures-de-protection/>
+
+Qui est Linus Torvalds ?
+-
+
+En 1991, un étudiant en informatique finlandais appelé Linus Torvalds écrivit la première version d'un noyau Unix pour son propre usage, et le publia sur l'Internet en demandant à d'autres programmeurs de l'aider pour le finaliser.
+Torvalds fut agréablement surpris de constater que pratiquement tous les utilitaires dont il avait besoin pour étoffer son système étaient déjà disponibles sous la forme des utilitaires GNU et autres logiciels libres. Il les intégra tous et baptisa ce système d'exploitation complet Linux, pour Linus Unix (ce qui se prononce LINE-ux, et non LYE-nux).
+<http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html>
+
