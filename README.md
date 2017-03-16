@@ -286,3 +286,9 @@ Qu’est-ce qu’Amazon Web Services - AWS ?
 
 Amazon Web Services (AWS) est une plateforme de services de cloud sécurisée, qui met notamment à disposition de la puissance de calcul et des fonctionnalités de stockage de base de données et de livraison de contenus pour aider les entreprises à grandir et à monter en échelle. Découvrez comment des millions de clients exploitent actuellement les produits et solutions du cloud AWS pour concevoir des applications sophistiquées, avec une flexibilité, une évolutivité et une fiabilité supérieures.
 <https://aws.amazon.com/fr/what-is-aws/>
+
+Qui est Sundar Pichai ?
+-
+
+Pichai Sundararajan, né à Chennai en Inde le 12 juillet 1972, plus connu sous le nom de Sundar Pichai, est un dirigeant d'entreprise indo-américain, président-directeur général de Google depuis le 2 octobre 2015 à la suite de la restructuration de Google et la création de la nouvelle société Alphabet.
+<https://fr.wikipedia.org/wiki/Sundar_Pichai>
