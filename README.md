@@ -161,3 +161,9 @@ Qui a inventé la souris ?
 
 Dans les années 60, les ordinateurs étaient de gigantesques machines. Parce qu’il était convaincu que l’ordinateur prendrait place dans la plupart des foyers, Doug Engelbart imagina un dispositif pour communiquer plus facilement avec ces boîtes bourrées d‘électroniques. C’était en 1963.
 <http://www.memoclic.com/438-souris/18251-histoire-dates-cles.html>
+
+Qui est Margaret Hamilton ?
+-
+
+Margaret Hamilton, née le 17 août 1936 à Paoli (Indiana), U.S., est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo2.
+<https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)>
