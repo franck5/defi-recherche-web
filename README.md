@@ -298,3 +298,9 @@ Qu'est-ce qu'une Cheatsheet ?
 
 Une antisèche (en informatique, on utilise généralement le terme anglais cheatsheet) est un document rédigé à l'avance afin d'éviter de « sécher » sur un sujet. Dans le domaine éducatif, il s'agit d'une fraude permettant par exemple de répondre correctement à une question lors d'un examen. Dans ce cas, l'antisèche, encore appelée pompe en argot scolaire, doit être de petite taille afin d'être aisément dissimulée. La cheatsheet reprend ce concept en présentant, de la façon la plus concise possible, les grandes lignes d'un logiciel ou d'un langage informatique, comme les raccourcis, termes ou données spécifiques à celui-ci.
 <https://fr.wikipedia.org/wiki/Antis%C3%A8che>
+
+Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+-
+
+694 445 recherches sur Google. Toutes les 60 secondes. Soit environ 1 milliard par jour. C’est étonnant, j’aurais parié bien plus
+<https://www.nextinpact.com/archive/64113-internet-60-secondes-emails-google-facebook.htm>
