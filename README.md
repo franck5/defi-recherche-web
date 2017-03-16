@@ -274,3 +274,10 @@ Comment sont reliés les différents réseaux d'internet ?
 
 Un réseau informatique est un ensemble d'équipements reliés entre eux pour échanger des informations. Par analogie avec un filet (un réseau est un « petit rets », c'est-à-dire un petit filet1), on appelle nœud l'extrémité d'une connexion, qui peut être une intersection de plusieurs connexions ou équipements (un ordinateur, un routeur, un concentrateur, un commutateur)
 <https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique>
+
+En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+
+-
+
+La méthode Pomodoro fait son apparition dans les années 80 grâce à Francesco Cirillo. Il s’est lancé un pari lorsqu’il était encore étudiant, à savoir s’il était capable d’étudier pendant 10 minutes sans interruption. Et pour tenir ce pari, il eu l’idée d’utiliser une minuterie en forme de tomate (pomodoro en italien, d’où la « Méthode Pomodoro »). Au fil du temps, Francesco Cirillo examina et améliora cette technique afin qu’elle soit adaptable au plus grand nombre d’activité. Celle-ci consiste donc à se consacrer à une tâche à la fois. Valoxy Expert comptable Lille vous présente les bases de la méthode Pomodoro.
+<https://blog.valoxy.org/methode-pomodoro/>
