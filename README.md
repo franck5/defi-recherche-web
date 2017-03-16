@@ -19,3 +19,10 @@ Quelle est la différence entre le Web et Internet ?
 Si internet est un réseau par lequel transitent des données, le web (raccourci de « world wide web », traduit en français par toile mondiale) correspond à une des applications utilisant ce réseau, la principale.
 <https://www.service-public.fr/particuliers/actualites/007052>
 
+Qu’est-ce que cela : 8.8.8.8 192.168.0.1 255.255.255.0 127.0.0.1 
+-
+
+Se sont differentes adresses de protocole internet qui sont utiliser par le protocole reseau.
+ source: https://en.wikipedia.org/wiki/Communications_protocol
+
+
