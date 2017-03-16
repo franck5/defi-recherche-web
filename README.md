@@ -133,3 +133,8 @@ En 1991, un étudiant en informatique finlandais appelé Linus Torvalds écrivit
 Torvalds fut agréablement surpris de constater que pratiquement tous les utilitaires dont il avait besoin pour étoffer son système étaient déjà disponibles sous la forme des utilitaires GNU et autres logiciels libres. Il les intégra tous et baptisa ce système d'exploitation complet Linux, pour Linus Unix (ce qui se prononce LINE-ux, et non LYE-nux).
 <http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html>
 
+Combien coûte un nom de domaine ?
+-
+
+Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu’en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes
+<http://www.nddconline.org/31-combien-coute-un-nom-de-domaine>
