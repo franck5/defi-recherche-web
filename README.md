@@ -210,3 +210,15 @@ Qu'est-ce qu'une adresse IP v4 et une adresse IP v6?
 
 Les adresses IP (aussi appelées adresses de Protocole Internet) sont à la base des protocoles de communication sur l'Internet. Il en existe actuellement deux types, IPv4, une combinaison de quatre ensembles de nombres séparés par des points (par exemple : 207.44.214.87) et IPv6, représenté par huit groupes de quatre chiffres hexadécimaux séparés par des deux-points (par exemple : 2001:0db8:0000:0042:0000:8a2e:0370:7334). Le dernier a été introduit car IPv4 a été épuisé en raison de la croissance rapide de l'Internet et des ordinateurs connectés à l'Internet via une adresse IP unique. Une adresse IP est utilisée comme identifiant d'un ordinateur sur l'Internet pour lui permettre de recevoir des informations depuis d'autres ordinateurs sur le réseau.
 <https://www.dynadot.com/fr/community/help/question.html?aid=23>
+
+Combien coûte un serveur pour héberger mon site perso ?
+-
+
+Il y a des hébergeur gratuit et des payants, pour les hebergeur payant les prix varies.
+<http://www.easygiga.com/combien-coute-un-hebergement-de-site-internet.html>
+
+Qu’est-ce que le Cowboy coding ?
+-
+
+Cowboy codage est un développement logiciel où les programmeurs ont l'autonomie sur le processus de développement. Cela comprend le contrôle du calendrier du projet, les langues, les algorithmes, les outils, les cadres et le style de codage.
+<https://translate.google.fr/translate?hl=fr&sl=en&u=https://en.wikipedia.org/wiki/Cowboy_coding&prev=search>
