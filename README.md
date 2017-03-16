@@ -68,3 +68,13 @@ D'où vient l'expression "bug informatique" ?
 En fait son usage date de… 1945 et du temps des premiers ordinateurs. Énormes machines, fonctionnant en particulier avec des lampes (allumées/éteintes pour signifier les 1/0* de l’informatique). Et il arriva que certains insectes vinrent s’y brûler les ailes, grillèrent alors les lampes, générant ainsi la panne…
 Plus précisément, l’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.
 <http://astucieux-filemaker.com/un-bug-est-ne/>
+
+Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+-
+
+Une grande partie des communautés de développeurs à Toulouse, sont réunis sur le site de meetup.com.
+
+Ce site Permet de crée des communautés et d'organiser des conférences, ceux qui permet aux différentes partis interressé, de pouvoir échangé via les médias virtuel et de pouvoir ce rencontrer et partager des différents sujets lié aux développement. je vous cite les plus actives qui sont:
+
+Simplon Toulouse, Laravel Toulouse, Communauté Javascrip and Co Toulouse, Angular Js Toulouse, Toulouse Java user group, Startup Evening Toulouse, swift Toulouse etc..
+<https://www.meetup.com/fr-FR/cities/fr/toulouse/>
