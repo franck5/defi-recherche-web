@@ -204,3 +204,9 @@ Qu’est-ce que le Bug Bounty ?
 
 Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook1, Yahoo!2, Google3, Reddit4, et Square5.
 <https://fr.wikipedia.org/wiki/Bug_bounty>
+
+Qu'est-ce qu'une adresse IP v4 et une adresse IP v6?
+-
+
+Les adresses IP (aussi appelées adresses de Protocole Internet) sont à la base des protocoles de communication sur l'Internet. Il en existe actuellement deux types, IPv4, une combinaison de quatre ensembles de nombres séparés par des points (par exemple : 207.44.214.87) et IPv6, représenté par huit groupes de quatre chiffres hexadécimaux séparés par des deux-points (par exemple : 2001:0db8:0000:0042:0000:8a2e:0370:7334). Le dernier a été introduit car IPv4 a été épuisé en raison de la croissance rapide de l'Internet et des ordinateurs connectés à l'Internet via une adresse IP unique. Une adresse IP est utilisée comme identifiant d'un ordinateur sur l'Internet pour lui permettre de recevoir des informations depuis d'autres ordinateurs sur le réseau.
+<https://www.dynadot.com/fr/community/help/question.html?aid=23>
