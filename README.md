@@ -240,3 +240,10 @@ Qu’est-ce que le W3C ?
 
 Le W3C ou World Wide Web Consortium, est un organisme international qui développe des standards pour le Web afin que les gens puissent communiquer efficacement à travers Internet, autour de formats ouverts garantissant une meilleure inter-opérabilité (c'est-à-dire une meilleure compréhension des systèmes hétérogènes à travers des données et langages standardisés)
 <https://www.alsacreations.com/astuce/lire/40-Quest-cequeleW3CAquoisert-il.html>
+
+Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+-
+
+13 heures
+Quantité de contenu a téléchargé chaque minute
+<http://zelaurent.com/video/10-chiffres-les-plus-impressionnants-sur-youtube>
