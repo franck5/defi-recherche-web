@@ -198,3 +198,9 @@ L'Open Source, la plupart du temps traduit en français par le terme "logiciel l
 
 C'est-à-dire que toute personne ayant les capacités techniques de travailler sur ces sources va utiliser la méthode de développement basée sur les valeurs de l'échange, de la liberté et du partage.
 <http://www.formation-open-source.fr/open-source-d%C3%A9finition>
+
+Qu’est-ce que le Bug Bounty ?
+-
+
+Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook1, Yahoo!2, Google3, Reddit4, et Square5.
+<https://fr.wikipedia.org/wiki/Bug_bounty>
