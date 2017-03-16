@@ -304,3 +304,9 @@ Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 
 694 445 recherches sur Google. Toutes les 60 secondes. Soit environ 1 milliard par jour. C’est étonnant, j’aurais parié bien plus
 <https://www.nextinpact.com/archive/64113-internet-60-secondes-emails-google-facebook.htm>
+
+Qu’est-ce que les joies du code ?
+-
+
+Initialement lancé comme un simple délire entre amis, afin de partager nos réactions vives face à nos joies, peines et autres sentiments rencontrés lors du développement de nos projet d'études à la fac, "Les joies du code" voient le jour en avril 2012 sous la forme d'un simple "Tumblr de gifs".
+<http://lesjoiesducode.fr/a-propos>
