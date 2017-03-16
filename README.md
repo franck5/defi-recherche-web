@@ -234,3 +234,9 @@ Qui est Phil Zimmermann ?
 
 Philip Zimmermann, né à Camden (New Jersey) le 12 février 1954 (63 ans), est un scientifique américain, créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde.
 <https://fr.wikipedia.org/wiki/Philip_Zimmermann>
+
+Qu’est-ce que le W3C ?
+-
+
+Le W3C ou World Wide Web Consortium, est un organisme international qui développe des standards pour le Web afin que les gens puissent communiquer efficacement à travers Internet, autour de formats ouverts garantissant une meilleure inter-opérabilité (c'est-à-dire une meilleure compréhension des systèmes hétérogènes à travers des données et langages standardisés)
+<https://www.alsacreations.com/astuce/lire/40-Quest-cequeleW3CAquoisert-il.html>
