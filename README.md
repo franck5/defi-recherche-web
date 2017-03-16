@@ -23,6 +23,19 @@ Qu’est-ce que cela : 8.8.8.8 192.168.0.1 255.255.255.0 127.0.0.1
 -
 
 Se sont differentes adresses de protocole internet qui sont utiliser par le protocole reseau.
- source: https://en.wikipedia.org/wiki/Communications_protocol
+<https://en.wikipedia.org/wiki/Communications_protocol
+>
+ Que sont le copyright et le copyleft ?
+ -
+
+ Le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+le copyright est droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique
+<http://www.larousse.fr/dictionnaires/francais/copyright/19166#QxLPbCWiWd9KXWoM.99>
 
 
+
+Que sont les Creatives Commons ?
+-
+
+Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
+<https://fr.wikipedia.org/wiki/Creative_Commons>
