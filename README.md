@@ -173,3 +173,9 @@ Retrouvez le code source de la mission Apollo 11.
 
 Disponible depuis quelques années déjà, le code source de l'ordinateur de bord de la mission Apollo 11 est désormais sur GitHub. Chacun peut donc l'explorer, remonter des bugs et proposer des suggestions... ce qui n'a évidemment pas tardé.
 <https://www.nextinpact.com/news/100597-apollo-11-code-source-ordinateur-bord-disponible-sur-github.htm>
+
+Qu’est-ce que Agile Manifesto ?
+-
+
+Le Manifeste agile est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. Les méthodes agiles ne sont pas apparues avec l’Agile manifesto en 2001 mais celui-ci détermine leur commun dénominateur et consacre le terme d'« agile » pour les référencer. Les valeurs et principes du Manifeste agile sont défendus par l'Agile Alliance.
+<https://fr.wikipedia.org/wiki/Manifeste_agile>
